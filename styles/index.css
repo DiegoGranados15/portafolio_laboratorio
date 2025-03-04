@@ -1,0 +1,14 @@
+
+.presentacion {
+    display: flex;
+    /* margin-top: 20px; */
+    /* padding: 10px; */
+}
+
+/* MAIN */
+.main-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin-right: 30px;
+}
